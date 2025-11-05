@@ -1,0 +1,7 @@
+{
+  "name": "Catalyst AI",
+  "description": "A conversational AI assistant powered by Gemini. Engage in dynamic conversations for coding help, research assistance, and creative brainstorming.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
